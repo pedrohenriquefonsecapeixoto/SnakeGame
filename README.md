@@ -6,7 +6,7 @@ Um clássico jogo da cobrinha focado na expansão contínua. Este projeto serve 
 
 Este repositório não é apenas um clone do jogo clássico. A ideia é começar com a mecânica básica (mover, comer, crescer) e modificá-lo para deixar a jogabilidade menos repetitiva e mais divertida.
 
-## 🚀 Funcionalidades Atuais (Versão Base)
+## 🚀 Funcionalidades Previstas
 * Movimentação em 4 direções.
 * Geração aleatória de comida.
 * Crescimento da cobra ao comer.
