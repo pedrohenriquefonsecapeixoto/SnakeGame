@@ -1,6 +1,6 @@
 import javax.swing.*;
 
-import ui.MenuFrame;
+import view.MenuFrame;
 import com.formdev.flatlaf.themes.FlatMacDarkLaf;
 
 public class Main{
@@ -11,6 +11,6 @@ public class Main{
        } catch (Exception ex) {
            JOptionPane.showMessageDialog(null, "Flatlaf Error: " + ex.getMessage(), "Erro", JOptionPane.ERROR_MESSAGE);
        }
-        SwingUtilities.invokeLater(MenuFrame::new);
+        SwingUtilities.invokeLater(view.MenuFrame::new);
     }
 }
