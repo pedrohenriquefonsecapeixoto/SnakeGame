@@ -1,6 +1,5 @@
 import javax.swing.*;
 
-import view.MenuFrame;
 import com.formdev.flatlaf.themes.FlatMacDarkLaf;
 
 public class Main{
