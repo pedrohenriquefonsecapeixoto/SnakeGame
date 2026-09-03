@@ -26,4 +26,3 @@ Como este é um projeto em constante evolução, aqui estão algumas ideias que 
 
 ### Adicionais
 - [ ] **Sistema de Skins:** Mude as cores e o formato da cobra.
-- [ ] **Multiplayer:** Uma ideia possível, talvez posterior às outras atualizações.
